@@ -1,3 +1,3 @@
 # cobra2632
-this is my first github repository
+this is my first github repository.
 Author-Sarang patel
